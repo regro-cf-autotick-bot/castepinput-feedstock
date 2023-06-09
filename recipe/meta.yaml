@@ -1,5 +1,5 @@
 {% set name = "castepinput" %}
-{% set version = "0.1.6" %}
+{% set version = "0.1.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/castepinput-{{ version }}.tar.gz
-  sha256: db4756a784cfc942ee57c0a04ef2270bcc12cb01187dfdd4ef5355882dbc6004
+  sha256: 8cdb6f6f473db24e4eab794c5dff68f7b3594cb6ad2526f0050978f93dcd9904
 
 build:
   noarch: python
