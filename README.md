@@ -1,11 +1,11 @@
-About castepinput
-=================
+About castepinput-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/castepinput-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/zhubonan/castepinput
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/castepinput-feedstock/blob/main/LICENSE.txt)
 
 Summary: A general reader/writer for CASTEP inputs
 
